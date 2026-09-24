@@ -1,0 +1,16 @@
+C:\Users\Nacera\TP_Securite_MotsDePasse\DictionnaireApp\DictionnaireApp\bin\Debug\net8.0-windows\DictionnaireApp.exe
+C:\Users\Nacera\TP_Securite_MotsDePasse\DictionnaireApp\DictionnaireApp\bin\Debug\net8.0-windows\DictionnaireApp.deps.json
+C:\Users\Nacera\TP_Securite_MotsDePasse\DictionnaireApp\DictionnaireApp\bin\Debug\net8.0-windows\DictionnaireApp.runtimeconfig.json
+C:\Users\Nacera\TP_Securite_MotsDePasse\DictionnaireApp\DictionnaireApp\bin\Debug\net8.0-windows\DictionnaireApp.dll
+C:\Users\Nacera\TP_Securite_MotsDePasse\DictionnaireApp\DictionnaireApp\bin\Debug\net8.0-windows\DictionnaireApp.pdb
+C:\Users\Nacera\TP_Securite_MotsDePasse\DictionnaireApp\DictionnaireApp\obj\Debug\net8.0-windows\DictionnaireApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacera\TP_Securite_MotsDePasse\DictionnaireApp\DictionnaireApp\obj\Debug\net8.0-windows\DictionnaireApp.AssemblyInfoInputs.cache
+C:\Users\Nacera\TP_Securite_MotsDePasse\DictionnaireApp\DictionnaireApp\obj\Debug\net8.0-windows\DictionnaireApp.AssemblyInfo.cs
+C:\Users\Nacera\TP_Securite_MotsDePasse\DictionnaireApp\DictionnaireApp\obj\Debug\net8.0-windows\DictionnaireApp.csproj.CoreCompileInputs.cache
+C:\Users\Nacera\TP_Securite_MotsDePasse\DictionnaireApp\DictionnaireApp\obj\Debug\net8.0-windows\DictionnaireApp.dll
+C:\Users\Nacera\TP_Securite_MotsDePasse\DictionnaireApp\DictionnaireApp\obj\Debug\net8.0-windows\refint\DictionnaireApp.dll
+C:\Users\Nacera\TP_Securite_MotsDePasse\DictionnaireApp\DictionnaireApp\obj\Debug\net8.0-windows\DictionnaireApp.pdb
+C:\Users\Nacera\TP_Securite_MotsDePasse\DictionnaireApp\DictionnaireApp\obj\Debug\net8.0-windows\DictionnaireApp.genruntimeconfig.cache
+C:\Users\Nacera\TP_Securite_MotsDePasse\DictionnaireApp\DictionnaireApp\obj\Debug\net8.0-windows\ref\DictionnaireApp.dll
+C:\Users\Nacera\TP_Securite_MotsDePasse\DictionnaireApp\DictionnaireApp\obj\Debug\net8.0-windows\DictionnaireApp.MainForm.resources
+C:\Users\Nacera\TP_Securite_MotsDePasse\DictionnaireApp\DictionnaireApp\obj\Debug\net8.0-windows\DictionnaireApp.csproj.GenerateResource.cache
